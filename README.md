@@ -14,7 +14,7 @@ The original Airbnb screenshots below were supplied as visual references for thi
 
 | Airbnb reference | Fanta recreation |
 | --- | --- |
-| ![Original Airbnb desktop reference](references/airbnb-desktop.png) | ![Desktop travel marketplace design](readme-assets/desktop.jpg) |
+| <img src="references/airbnb-desktop.png" alt="Original Airbnb desktop reference" width="280"> | <img src="readme-assets/desktop.jpg" alt="Desktop travel marketplace design" width="280"> |
 
 ### Mobile — Inicio
 
