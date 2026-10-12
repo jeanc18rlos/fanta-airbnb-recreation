@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4RA6BG71BTSJ3GPRDE8XT38",
+      "index": 2.0,
+      "name": "Category Tile",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4RA6BK2W4ZG7KPJ68E3Q61X",
+      "index": 1.0,
+      "name": "Media",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4RA6BP370B1QX3RG7FB250Y",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4RA4J1BJWWJT6E3Q7PECPEJ"
+}

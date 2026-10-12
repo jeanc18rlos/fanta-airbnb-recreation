@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "assets": {
+    "a_0KXZGDE71KQSKVCZTPB67V0M1Q": {
+      "size": 4772700,
+      "sha256": "13efe0d71c33be67b67f56598fb05037e6e081aff0848de84e5f375a91360da9"
+    },
+    "a_0NQBMQV9H8J133S1QVKCSKGBEJ": {
+      "size": 5650192,
+      "sha256": "15bae97da62890463c86fb9b33382dd29823c571e510b9cfafa04338f2cde550"
+    },
+    "a_0QVS2NA4CRJSX6WHGKV2VWR8C8": {
+      "size": 5753698,
+      "sha256": "17de45551198967a6e4613d8b7cc218881ce4b561e4f9f1da91f8dcc7fe315e6"
+    },
+    "a_0W440X2FMW2SRDAEYGQMBRJ9J4": {
+      "size": 61630,
+      "sha256": "1c2101d13e9c1670d53bd0bd17892644b2658d8093eb72839a674e23ef47e111"
+    },
+    "a_1KR5AMTETCA9W3XXDGBJFMHQHR": {
+      "size": 5716044,
+      "sha256": "33c1554d3b4c52783ef5b05c9f48de38ec6408741c0c8821a1e55a3196e42ce9"
+    },
+    "a_1RGJ0H4VQJDA06FXRQMEVZZQEX": {
+      "size": 5480258,
+      "sha256": "388481126ef26a8067f717a3b7ffddddcc3a1e65cce840c5f8ead68a305b1f05"
+    },
+    "a_230WATB5TWTZ2FV5Q5AZ53RWQ0": {
+      "size": 5717466,
+      "sha256": "430715a5975cd7c4fd96e557ca3c72e08284ee0e699d7d670126e1bc4e38b5b8"
+    },
+    "a_2DGEVEQ0R59S3CF9AK2PASWK7R": {
+      "size": 4657966,
+      "sha256": "4d83b6eb83054e46c7a55315959e4cf83f629927347bc1cea0d72d8c0356f1f9"
+    },
+    "a_2HADYXRF6S3P71BNWNJZBQP46B": {
+      "size": 4469030,
+      "sha256": "51537ddc3cd91d8e15d79597d77b10cbd74009627faa20a33658c304fd9457e2"
+    },
+    "a_32J7XXHZK2GMQ5ZQJD8TZR38MF": {
+      "size": 67268,
+      "sha256": "6291fbd8fe62852e5fde4d46bf81a28f163b29cbf2e2466ff98dd58fa9b8094f"
+    },
+    "a_3YKWT3CHV6H8MRK5Z4YHJQDBH4": {
+      "size": 4336426,
+      "sha256": "7e9f343647668a298997e4f46576ae2415a7971be3c99772d64e90b5c2e1e134"
+    },
+    "a_3YXR90KVZXB919GAC7KNE5MDRV": {
+      "size": 4977832,
+      "sha256": "7eee1209effd5a429829879d5c5a371b8ad6ba7af25ba01f79ba2265ad401e16"
+    },
+    "a_40GFP70SNAGP3ZB3QVZ1SRDFEQ": {
+      "size": 31718,
+      "sha256": "8083ec7066aa8587f58efbf87386bdd72c34fc8fac79e9ac7d1b6113fce636c3"
+    },
+    "a_48V847CJSTYRRHDYBETNBTWA7P": {
+      "size": 4773470,
+      "sha256": "88da08764b3af63116f96ed557ae28f65e0343d4bf10a5e613aedf5f8be7b580"
+    },
+    "a_4J589722ZD160F0GDMCHQBP92X": {
+      "size": 5698680,
+      "sha256": "922a12710bed0980f041b4646ebb245dc39f0732298980b0295e9d88197c8a0d"
+    },
+    "a_4R3H0QGPPRAB83ZXK6VVDSP3RG": {
+      "size": 4899366,
+      "sha256": "981c41785ad852d03ff666dedb9b0f10befc9f75d79a157eb02f648896838762"
+    },
+    "a_4XRDXC8ZK5FE3XCZZ0PAX7RBP7": {
+      "size": 5315640,
+      "sha256": "9dc37ac47e657b87d67fe0b2ba7c2ec7a3fe779f66bd6812f858bd5be4ef45cd"
+    },
+    "a_4ZDCDSSTC8DMV8DD5J47R2BEHR": {
+      "size": 5854808,
+      "sha256": "9f6b1b9ce9886d3686b4b221f025ba38fc68a62b17f33ef4a26997b5424ab2d2"
+    },
+    "a_5EKEBY9J5VGMZ355FM9H4JQWXE": {
+      "size": 4705624,
+      "sha256": "ae9b97e4c8bb853e3295f44c492bf3aefeb8ca66d42e98f4a39a64b91dfe88fd"
+    },
+    "a_5FSES75A5S1ZB63V77DZ1MJG6Q": {
+      "size": 5495556,
+      "sha256": "afcbb272a8b90fd661ece76fc34940d753491a35889b9de3a641d9813cbae58d"
+    },
+    "a_5GACK0E5SHGMASH0SX8ZXM2AGX": {
+      "size": 4603102,
+      "sha256": "b05326071731851598833d47fb412a1d0ca96418ded8979db69fce28bee871c0"
+    },
+    "a_6JP9J56C93GPQ63M7NMQE8PMJC": {
+      "size": 5144244,
+      "sha256": "d2b26453312385ae61d0f5a5dc8b524cb2e383b1c07ceac2053900d726a03574"
+    },
+    "a_74TTWEQ0XKMJMF5HBH25GR4Y3A": {
+      "size": 4929874,
+      "sha256": "e4d6b8eb83b3a4a8f2c571116182786a792c9b7250baa31838087f7aedd84299"
+    },
+    "a_78ZZ0ETXXDTA5X3K64RGNAMPNE": {
+      "size": 5214296,
+      "sha256": "e8ffc0ed77add28bd1ccc4c42aaa5aae1c39fc1d9909b00008572ad190b68165"
+    },
+    "a_7BAG3QDMEMV3B9DZNYB2K4B1KD": {
+      "size": 5582904,
+      "sha256": "eb540776d1d4d8d696febe58a645866d4cb5c8f4261b9e9721d9a969129acba1"
+    },
+    "a_7C6NKS2M8MT3J4QEFKZ4D6ZA5Y": {
+      "size": 36081,
+      "sha256": "ec3567915114d0e44bb9f3f91a6fa8be6108014029eabad00b5ff4ef328a635f"
+    },
+    "a_7CBT5R5Z4R6YSPAJY1BP1T6DTC": {
+      "size": 4529832,
+      "sha256": "ec5e8b82fc9837b3654bc15d83a3374c211b4f644fa983887135c843491c0d1a"
+    },
+    "a_7TWXY42JYNKCS90H6D5VX9XMJS": {
+      "size": 3755092,
+      "sha256": "fae77c414bd59b329044cd2efa9ed259613addf136f2868831801362b27314b4"
+    }
+  }
+}

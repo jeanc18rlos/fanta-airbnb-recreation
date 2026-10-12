@@ -1,0 +1,163 @@
+{
+  "collections": {
+    "01M4RA43M766KZF6Y9CG0EQ5DE": {
+      "default_mode": "01M4RA43M718W4T1PS7WXB0GMZ",
+      "id": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "modes": [
+        {
+          "id": "01M4RA43M718W4T1PS7WXB0GMZ",
+          "name": "Light"
+        }
+      ],
+      "name": "Theme",
+      "variable_order": [
+        "01M4RA43Q7S07SW47FGP42REXR",
+        "01M4RA43T60FV47ZJ1SF66BV01",
+        "01M4RA43X1Z4ZV4SCDGZKNM9RP",
+        "01M4RA44021257ZTE79JDXB3H4",
+        "01M4RA44316N5VWKQ2Q3TYESDY",
+        "01M4RA445X5TYPWEEJEPG0TWSD",
+        "01M4RA448YAT8PSAT5JNA16BX6",
+        "01M4RA44BWG3CBY9BW4XT9AYVM"
+      ]
+    }
+  },
+  "variables": {
+    "01M4RA43Q7S07SW47FGP42REXR": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA43Q7S07SW47FGP42REXR",
+      "name": "brand",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 92,
+            "g": 56,
+            "r": 255
+          }
+        }
+      }
+    },
+    "01M4RA43T60FV47ZJ1SF66BV01": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA43T60FV47ZJ1SF66BV01",
+      "name": "surface",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      }
+    },
+    "01M4RA43X1Z4ZV4SCDGZKNM9RP": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA43X1Z4ZV4SCDGZKNM9RP",
+      "name": "surface-alt",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 247,
+            "g": 247,
+            "r": 247
+          }
+        }
+      }
+    },
+    "01M4RA44021257ZTE79JDXB3H4": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA44021257ZTE79JDXB3H4",
+      "name": "surface-chip",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 242,
+            "g": 242,
+            "r": 242
+          }
+        }
+      }
+    },
+    "01M4RA44316N5VWKQ2Q3TYESDY": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA44316N5VWKQ2Q3TYESDY",
+      "name": "text",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 34,
+            "g": 34,
+            "r": 34
+          }
+        }
+      }
+    },
+    "01M4RA445X5TYPWEEJEPG0TWSD": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA445X5TYPWEEJEPG0TWSD",
+      "name": "text-muted",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 106,
+            "g": 106,
+            "r": 106
+          }
+        }
+      }
+    },
+    "01M4RA448YAT8PSAT5JNA16BX6": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA448YAT8PSAT5JNA16BX6",
+      "name": "border",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 255,
+            "b": 221,
+            "g": 221,
+            "r": 221
+          }
+        }
+      }
+    },
+    "01M4RA44BWG3CBY9BW4XT9AYVM": {
+      "collection": "01M4RA43M766KZF6Y9CG0EQ5DE",
+      "id": "01M4RA44BWG3CBY9BW4XT9AYVM",
+      "name": "badge",
+      "ty": "color",
+      "values_by_mode": {
+        "01M4RA43M718W4T1PS7WXB0GMZ": {
+          "kind": "color",
+          "value": {
+            "a": 230,
+            "b": 242,
+            "g": 242,
+            "r": 242
+          }
+        }
+      }
+    }
+  }
+}

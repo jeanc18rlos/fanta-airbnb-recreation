@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4RA4WY8Y6H1W5J565K7HD88",
+      "index": 1.0,
+      "name": "Experience Card",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4RA4X1C7A00KY9CZ4KHSN0Z",
+      "index": 1.0,
+      "name": "Media",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4RA59M3Z8X4H8VD6QBW0ND4",
+      "index": 1.0,
+      "name": "Badge",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4RA59Q9CR8Q866JWPFWK0DT",
+      "index": 1.0,
+      "name": "Badge label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4RA59T8HQ3890JWNH7WKQRX",
+      "index": 3.0,
+      "name": "Heart",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4RA4X4G6P4ZSS21G45Y9SNH",
+      "index": 2.0,
+      "name": "Details",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4RA5MJBMZGBF1ZHBCSXZVNF",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4RA5MN7GYBC4757T80QS7QK",
+      "index": 2.0,
+      "name": "Host",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4RA5MR8Q6Y17PXEPMSF3DFV",
+      "index": 3.0,
+      "name": "Price",
+      "parent_index": 5,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4RA4J1BJWWJT6E3Q7PECPEJ"
+}
