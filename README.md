@@ -6,17 +6,23 @@ The design lives in readable **FNX source**: canvas edits save to the project fi
 
 ## Screens
 
+The original Airbnb screenshots below were supplied as visual references for this design study. The Fanta recreations use the name **estancia** and generated photography.
+
 ### Desktop — Inicio
 
 1440 × 1180 pixels, with navigation, search, experience and stay cards, and category tiles.
 
-![Desktop travel marketplace design](readme-assets/desktop.jpg)
+| Airbnb reference | Fanta recreation |
+| --- | --- |
+| ![Original Airbnb desktop reference](references/airbnb-desktop.png) | ![Desktop travel marketplace design](readme-assets/desktop.jpg) |
 
 ### Mobile — Inicio
 
 390 × 940 pixels, with a compact search layout, cards, and a bottom tab bar.
 
-![Mobile travel marketplace design](readme-assets/mobile.jpg)
+| Airbnb reference | Fanta recreation |
+| --- | --- |
+| <img src="references/airbnb-mobile.png" alt="Original Airbnb mobile reference" width="280"> | <img src="readme-assets/mobile.jpg" alt="Mobile travel marketplace design" width="280"> |
 
 ## Open and edit
 
@@ -37,6 +43,7 @@ This repository contains the design project. The screens are editable design lay
 - `doc/variables.json`: theme and design variables.
 - `assets/images/`: project photography and icon assets.
 - `readme-assets/`: exported screen previews.
+- `references/`: original desktop and mobile Airbnb reference screenshots.
 - `fanta.md`: project design specification.
 - `AGENTS.md`: project instructions for working with the design source.
 
